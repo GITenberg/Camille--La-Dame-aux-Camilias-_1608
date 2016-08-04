@@ -1,0 +1,33 @@
+_repo: Camille--La-Dame-aux-Camilias-_1608
+_version: 0.0.1
+alternative_title: La dame aux camélias (Novel). English
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas fils, Alexandre
+    - Dumas, A. (Alexandre)
+    birthdate: 1824
+    deathdate: 1895
+    gutenberg_agent_id: '672'
+    url: http://www.gutenberg.org/2009/agents/672
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_fils
+description: 'Translation of: La dame aux camélias'
+gutenberg_issued: '1999-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1608'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Paris (France) -- Fiction'
+- !lcsh 'Tuberculosis -- Patients -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Courtesans -- Fiction'
+- GITenberg
+title: Camille (La Dame aux Camilias)
+url: http://www.gutenberg.org/ebooks/1608
